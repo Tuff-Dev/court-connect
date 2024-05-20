@@ -119,33 +119,15 @@ export const navItems: NavItem[] = [
     label: "Dashboard",
   },
   {
-    title: "User",
-    href: "/dashboard/user",
+    title: "Court Booking",
+    href: "/dashboard/court-booking",
     icon: "user",
-    label: "user",
+    label: "court-booking",
   },
   {
-    title: "Employee",
-    href: "/dashboard/employee",
+    title: "Box Leageus",
+    href: "/dashboard/box-leagues",
     icon: "employee",
     label: "employee",
-  },
-  {
-    title: "Profile",
-    href: "/dashboard/profile",
-    icon: "profile",
-    label: "profile",
-  },
-  {
-    title: "Kanban",
-    href: "/dashboard/kanban",
-    icon: "kanban",
-    label: "kanban",
-  },
-  {
-    title: "Login",
-    href: "/",
-    icon: "login",
-    label: "login",
   },
 ];
